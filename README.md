@@ -30,7 +30,9 @@
 
 •	Experimental design and implementation
 
-•	GIS (ArcMap)
+•	GIS (ArcMap, QGIS)
+
+•	Open Science Tools (R Studio, GitHub)
 
 •	Office Suite
 
