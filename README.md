@@ -40,4 +40,4 @@
 
 •	Scuba (NAUI Certification)
 
-## Link to CV: https://drive.google.com/file/d/1Kc-dcVNinyNNtFI0kwTo4Q65c89GughQ/view?usp=drive_link
+## Link to CV: https://drive.google.com/file/d/1JtDirwQAO9RJarPLATObT8w-tXe8PDMa/view?usp=sharing
